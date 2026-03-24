@@ -9,7 +9,7 @@
 - 输出准确率、F1、精确率、召回率等评估指标
 
 ## 环境依赖
-- Python 3.x
+- Python 3.9
 - PyTorch
 - torchvision
 - scikit-learn
